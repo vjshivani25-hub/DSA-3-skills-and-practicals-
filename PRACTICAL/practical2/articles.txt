@@ -1,0 +1,5 @@
+Article 1: Artificial Intelligence is changing the world.
+
+Article 2: Machine learning helps computers learn from data.
+
+Article 3: Data science is used in many industries.
